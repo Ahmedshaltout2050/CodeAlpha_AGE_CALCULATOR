@@ -13,10 +13,7 @@ A simple, web-based **Age Calculator** that lets users calculate their age based
 
 ---
 
-## 🚀 Demo
-You can try the live version of the Age Calculator [here](#) (replace `#` with the live link, if hosted).
-
-Alternatively, see the screenshot below:
+ see the screenshot below:
 
 ![Age Calculator Screenshot](Screenshot.png)
 
